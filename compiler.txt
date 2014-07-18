@@ -1,0 +1,3 @@
+gcc -Wall -o roboa roboa.c -Dlinux -I /usr/local/ni-motion/FlexMotion/include -L /usr/local/lib -lFlexMotion32
+gcc -Wall -o roboa roboa.c -Dlinux -I /usr/local/ni-motion/FlexMotion/include -L /usr/local/lib -lFlexMotion32 -lssl
+

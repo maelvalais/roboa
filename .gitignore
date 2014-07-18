@@ -1,0 +1,41 @@
+# Object files
+*.o
+*.ko
+*.obj
+*.elf
+
+# Libraries
+*.lib
+*.a
+
+# Shared objects (inc. Windows DLLs)
+*.dll
+*.so
+*.so.*
+*.dylib
+
+# Executables
+*.exe
+*.out
+*.app
+*.i*86
+*.x86_64
+*.hex
+
+# Fichiers backup
+*.*~
+
+*.tif
+/Debug
+/Builds
+/.DS_Store
+/config.log
+/config.status
+/configure.scan
+/Makefile
+/autom4te.cache
+/climso_auto_classe_image
+/climso_auto_main_lk
+/.cproject
+/.project
+/images-de-correlation

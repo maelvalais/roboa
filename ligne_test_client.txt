@@ -1,0 +1,2 @@
+openssl s_client -connect jedi.univ-lyon1.fr:22443 -cert CertificatClientROBOA.pem -key ClePriveeClientROBOA.pem -CAfile CertificatCA_OA.pem -state -debug
+
